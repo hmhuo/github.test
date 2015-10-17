@@ -1,2 +1,2 @@
-# github.test
-github.test
+# github.assistant
+github.assistant
